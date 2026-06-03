@@ -43,9 +43,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
       ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
 
 
-# Experiment :
-
-![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
 ```py
@@ -104,6 +101,12 @@ print(f"Standard Deviation = {SD:.3f}")
 # Output : 
 
 <img width="521" height="246" alt="image" src="https://github.com/user-attachments/assets/12c26bff-f010-43cb-9951-752139e209ad" />
+
+## Developed by : Harish R
+## Register No : 212224230085
+# GitHub Link : 
+
+https://github.com/Harish5127/Mean-and-Variance/tree/main
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
